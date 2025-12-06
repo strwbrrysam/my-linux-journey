@@ -22,4 +22,4 @@ My focus is on real-world infrastructure: VPN meshes, NAS design, routing, and a
 I started tinkering when I was 15 — building PCs, playing with routers, and hosting game servers.  
 Over the years this grew into a deep interest in networking, storage, virtualization, and Linux.
 
-👉 **Full story here:** [My Homelab Journey →](./WORK IN PROGRESS NOT READY YET)
+👉 **Full story here:** https://github.com/strwbrrysam/strwbrrysam-homelab-journey
