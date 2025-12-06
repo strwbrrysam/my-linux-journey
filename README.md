@@ -1,4 +1,4 @@
-# my-linux-journey
+# strwbrrysam-portfolio
 A journal of my Linux/Networking learning.
 
 ## Hi, I'm Sam — Homelab builder, Linux learner, and infrastructure tinkerer
